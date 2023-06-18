@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on creating Android apps using Kotlin.<br>🌱 I’m currently learning MVVM,Dependency Injection(Hilt),Coroutines,ReactiveX.<br>🤝 Even though I'm at the beginning, I'm trying to learn Swift. My main goal is to specialize in native application development for both IOS and Android.<br>
 
 ![](https://github.com/doguhan2222/doguhan2222/blob/main/altan_camli.gif)
