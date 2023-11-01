@@ -11,3 +11,12 @@
 [![](https://visitcount.itsvg.in/api?id=doguhan2222&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doguhan2222&show_icons=true&locale=en" alt="doguhan2222" /></p>
+
